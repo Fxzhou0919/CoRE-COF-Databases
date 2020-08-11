@@ -1,0 +1,11 @@
+         1                      10                                                     MET_N2_BA2
+         2                      10                                                   CUBE_PBB_BA2
+         3                      10                                                  CUBE_KET2_BA2
+         4                      10                                          cn4_fimr2-saifen1_No1
+         5                      10                                           cn4_fimr2-funan1_No1
+         6                      10                                      Boro-BDC_A-irmof20_A_No23
+         7                      10                                         bar-sisaifenjiawan-nai
+         8                      10                                            bar-sifumajiwan-fei
+         9                      10                                     bar-sifumajiwan-2biqin-ket
+        10                      10                                    ball_cen2-BA2_PBB_2HYD2_No1
+       
